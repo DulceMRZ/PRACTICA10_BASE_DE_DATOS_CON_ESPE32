@@ -213,7 +213,7 @@ delay(1000);
 
 Como se muestra en la siguente imagen.
 
-![](https://github.com/DulceMRZ/PRACTICA7_ESP32_ULTRASONIC/blob/main/LIBRERIAS.PNG?raw=true)
+![](https://github.com/DulceMRZ/PRACTICA10_BASE_DE_DATOS_CON_ESPE32/blob/main/Captura1.PNG?raw=true)
 
 ## Paso 3
 
@@ -223,11 +223,11 @@ Como se muestra en la siguente imagen.
 
 a) Observar conexión de  **ESP32**. 
 
-![](
+![](https://github.com/DulceMRZ/PRACTICA10_BASE_DE_DATOS_CON_ESPE32/blob/main/Node-RED%20-%20Google%20Chrome%2024_06_2023%2006_08_26%20a.%20m..png?raw=true)
 
 b) Corrobora que el simulador compile bien el programa 
 
-![]()
+![](https://github.com/DulceMRZ/PRACTICA10_BASE_DE_DATOS_CON_ESPE32/blob/main/Node-RED%20-%20Google%20Chrome%2024_06_2023%2006_09_31%20a.%20m..png?raw=true)
 
 
 ### 5. Conexión Diagrama en Node - Red
@@ -236,7 +236,7 @@ En Node Red, nos estaremos apoyando para poder ver los datos en tiempo real, al 
 
 ###### Nota: es importante ya contantar con Node Red previamente descargado, y la IP, con la que estaras trabajando. 
 
-![]()
+![](https://github.com/DulceMRZ/PRACTICA10_BASE_DE_DATOS_CON_ESPE32/blob/main/Node-RED%20-%20Google%20Chrome%2024_06_2023%2006_03_53%20a.%20m..png?raw=true)
 
 Al inciar tu diagrama de bloques debes ajustar información importante en cada Topico: 
 
@@ -261,8 +261,9 @@ b) Para el **Bloque - JSON** es importante Seleccionar la opción de "Always con
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/DulceMRZ/PRACTICA10_BASE_DE_DATOS_CON_ESPE32/blob/main/Node-RED%20-%20Google%20Chrome%2024_06_2023%2006_04_29%20a.%20m..png?raw=true)
 
+![](https://github.com/DulceMRZ/PRACTICA10_BASE_DE_DATOS_CON_ESPE32/blob/main/Node-RED%20-%20Google%20Chrome%2024_06_2023%2006_04_56%20a.%20m..png?raw=true)
 
 # Créditos
 
